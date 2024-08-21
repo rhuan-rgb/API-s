@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "rhuan860",
+  "version": "2.0.0",
+  "description": "Euller tá bruto hoje",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/servers.js"
+  },
+  "author": "Rhuan",
+  "license": "ISC"
+}
